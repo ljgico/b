@@ -1,5 +1,22 @@
 ssh-keygen -t rsa -C "153454391@qq.com"
 
-git remote add origin https://github.com/ljgico/ljg
+git remote add origin https://github.com/ljgico/ljg.git
 
 
+
+
+…or create a new repository on the command line
+
+echo "# b" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+
+如果执行此名出错 先执行$ git remote rm origin
+git remote add origin https://github.com/ljgico/b.git
+git push -u origin master
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/ljgico/b.git
+git push -u origin master
