@@ -1,0 +1,7 @@
+	{"menu":[
+		{"name":"经典必听","imgurl":"../static/menu1.png"},
+		{"name":"每日必听","imgurl":"../static/menu2.png"},
+		{"name":"下班途中","imgurl":"../static/menu3.png"},
+		{"name":"付费精品","imgurl":"../static/menu4.png"},
+		{"name":"听北京","imgurl":"../static/menu5.png"}
+	],"code":200}
